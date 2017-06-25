@@ -1,7 +1,27 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" UseMySettingsClassName="true">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="RutaDBF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Jobs\TULIPAN</Value>
+    </Setting>
+    <Setting Name="Mysql_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Mysql_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="Mysql_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">s3rv3r</Value>
+    </Setting>
+    <Setting Name="Mysql_DB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbconsulta</Value>
+    </Setting>
+    <Setting Name="Mysql_Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5.3</Value>
+    </Setting>
+    <Setting Name="Dias_Busqueda" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
